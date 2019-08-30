@@ -112,54 +112,15 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="Detail.Name" xml:space="preserve">
-    <value>Detail</value>
-  </metadata>
-  <metadata name="xrLabel2.Name" xml:space="preserve">
-    <value>xrLabel2</value>
-  </metadata>
-  <metadata name="xrLabel4.Name" xml:space="preserve">
-    <value>xrLabel4</value>
-  </metadata>
-  <metadata name="xrLabel3.Name" xml:space="preserve">
-    <value>xrLabel3</value>
-  </metadata>
-  <metadata name="PageHeader.Name" xml:space="preserve">
-    <value>PageHeader</value>
-  </metadata>
-  <metadata name="PageFooter.Name" xml:space="preserve">
-    <value>PageFooter</value>
-  </metadata>
-  <metadata name="nwindDataSet1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+  <metadata name="sqlDataSource1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
-  <metadata name="nwindDataSet1.Name" xml:space="preserve">
-    <value>nwindDataSet1</value>
-  </metadata>
-  <metadata name="salesPersonTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>151, 17</value>
-  </metadata>
-  <metadata name="salesPersonTableAdapter.Name" xml:space="preserve">
-    <value>salesPersonTableAdapter</value>
-  </metadata>
-  <metadata name="GroupHeader1.Name" xml:space="preserve">
-    <value>GroupHeader1</value>
-  </metadata>
-  <metadata name="xrLabel1.Name" xml:space="preserve">
-    <value>xrLabel1</value>
-  </metadata>
-  <metadata name="GroupFooter1.Name" xml:space="preserve">
-    <value>GroupFooter1</value>
-  </metadata>
-  <metadata name="QuantityLessThan10.Name" xml:space="preserve">
-    <value>QuantityLessThan10</value>
-  </metadata>
-  <metadata name="$this.Name" xml:space="preserve">
-    <value>XtraReport1</value>
-  </metadata>
+  <data name="sqlDataSource1.ResultSchemaSerializable" xml:space="preserve">
+    <value>PERhdGFTZXQgTmFtZT0ic3FsRGF0YVNvdXJjZTEiPjxWaWV3IE5hbWU9IlNhbGVzUGVyc29uIj48RmllbGQgTmFtZT0iT3JkZXJJRCIgVHlwZT0iSW50MzIiIC8+PEZpZWxkIE5hbWU9IkNvdW50cnkiIFR5cGU9IlN0cmluZyIgLz48RmllbGQgTmFtZT0iRmlyc3ROYW1lIiBUeXBlPSJTdHJpbmciIC8+PEZpZWxkIE5hbWU9Ikxhc3ROYW1lIiBUeXBlPSJTdHJpbmciIC8+PEZpZWxkIE5hbWU9IlByb2R1Y3ROYW1lIiBUeXBlPSJTdHJpbmciIC8+PEZpZWxkIE5hbWU9IkNhdGVnb3J5TmFtZSIgVHlwZT0iU3RyaW5nIiAvPjxGaWVsZCBOYW1lPSJPcmRlckRhdGUiIFR5cGU9IkRhdGVUaW1lIiAvPjxGaWVsZCBOYW1lPSJVbml0UHJpY2UiIFR5cGU9IkRlY2ltYWwiIC8+PEZpZWxkIE5hbWU9IlF1YW50aXR5IiBUeXBlPSJJbnQxNiIgLz48RmllbGQgTmFtZT0iRGlzY291bnQiIFR5cGU9IlNpbmdsZSIgLz48RmllbGQgTmFtZT0iRXh0ZW5kZWQgUHJpY2UiIFR5cGU9IkRlY2ltYWwiIC8+PEZpZWxkIE5hbWU9IlNhbGVzIFBlcnNvbiIgVHlwZT0iU3RyaW5nIiAvPjwvVmlldz48L0RhdGFTZXQ+</value>
+  </data>
 </root>
